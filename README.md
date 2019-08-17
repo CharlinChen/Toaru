@@ -2,6 +2,9 @@
 
 ![界面截图](https://github.com/CharlinChen/Toaru/blob/master/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE.png)
 
+【下载地址】
+https://github.com/CharlinChen/Toaru/releases/tag/v0.1.0beta
+
 【脚本说明】
 
     ①本脚本只适用于《魔法禁书目录手游》官方给的PC端，对于模拟器不一定适用；
