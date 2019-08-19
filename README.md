@@ -1,9 +1,9 @@
 # 魔法禁书目录手游PC脚本
 
-![界面截图](https://github.com/CharlinChen/Toaru/blob/master/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE.png)
+![界面截图](https://github.com/CharlinChen/Toaru/blob/master/%E6%88%AA%E5%9B%BE.png)
 
 【下载地址】
-https://github.com/CharlinChen/Toaru/releases/tag/v0.1.0beta
+https://github.com/CharlinChen/Toaru/releases/tag/v0.2.0beta
 
 【脚本说明】
 
