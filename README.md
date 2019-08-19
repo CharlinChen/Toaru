@@ -3,7 +3,7 @@
 ![界面截图](https://github.com/CharlinChen/Toaru/blob/master/%E6%88%AA%E5%9B%BE.png)
 
 【下载地址】
-https://github.com/CharlinChen/Toaru/releases/tag/v0.2.0beta
+https://github.com/CharlinChen/Toaru/releases/tag/%E9%AD%94%E7%A6%81%E8%84%9A%E6%9C%ACv0.2.0beta
 
 【脚本说明】
 
